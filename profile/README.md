@@ -17,7 +17,8 @@ Furthermore, Refugee Pal's backend infrastructure is built on Firebase, a secure
 
 ### [ProjectBoard](https://projectboard.world/ysc/project/refugee-pal-a-novel-app-supporting-refugees)
 
-### [Video]([https://youtube.com/watch?v=Vx1OtWmFCNI](https://www.youtube.com/watch?v=aqFTNnF-Ooo&ab_channel=RefugeePal](https://www.youtube.com/watch?v=aqFTNnF-Ooo&ab_channel=RefugeePal))
+### [Video](https://www.youtube.com/watch?v=aqFTNnF-Ooo&ab_channel=RefugeePal)
+
 
 ### [Bibliography and References](https://github.com/AliSoufi42/refugeepal/blob/main/bibliography.md)
 
