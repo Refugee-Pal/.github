@@ -50,4 +50,4 @@ The Q&A feature that allows refugees to post questions within different chats se
 
 ## ✏️ Refugee Pal for Helpers
 
-Ever wondered how Refugee Pal gathers its database of programs, events, resources and professionals. We used to do this manually, but we realized that Refugee Pal needed to act as a bridge between refugees and refugee support organizations. With Refugee Pal for Helpers, helpers can post their services and programs on the platform, and professionals like doctors and lawyers can list their practice on the professionals directory. Finally, Refugee Pal comes with a separate chat client for settlement workers to communicate with refugees.
+Ever wondered how Refugee Pal gathers its database of services? We used to do this manually, but we realized that Refugee Pal needed to act as a bridge between refugees and refugee support organizations. With Refugee Pal for Helpers, helpers can post their services and programs on the platform, and professionals like doctors and lawyers can list their practice on the professionals directory. Finally, Refugee Pal comes with a separate chat client for settlement workers to communicate with refugees.
