@@ -1,5 +1,5 @@
 # What is Refugee Pal?
-Refugee Pal is a comprehensive mobile application designed to provide aid and assistance to refugees residing in British Columbia. The application is compatible with various operating systems, including iOS, Android and web, as well as diverse screen sizes, offering users a seamless experience regardless of their device of choice.
+Refugee Pal is a comprehensive mobile application designed to provide aid and assistance to refugees residing in Canada. The application is compatible with various operating systems, including iOS, Android and web, as well as diverse screen sizes, offering users a seamless experience regardless of their device of choice.
 
 The app is developed using the Dart programming language and the Flutter framework, a dynamic and powerful combination that enables us to create a smooth and efficient user interface. To accelerate the development process, we leveraged the benefits of FlutterFlow, a no-code builder that helped us streamline our workflow and expedite the app's delivery.
 
